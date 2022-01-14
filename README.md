@@ -11,9 +11,11 @@ Please cite the paper above if you use the code:
  The matlab code is provided ''as is'' and without warranty of any kind, experess, implied or otherwise, including without limitation,
  any warranty of merchantability or fitness for a particular purpose.
 
+The data and required library can be downloaded through "https://drive.google.com/open?id=15E2nkIv1iYiupml_UE0HavpX5SirCmcq".
+
 
 This source code is successfully tested on Unbuntu 12.04 64 bits and MatlabR2012a.  
-For any problems with the code, please contact me at: k.nagendra@iitg.ac.in, nagendrakumar06@gmail.com
+For any problems with the code, please contact me at: k.nagendra@iitg.alumni.iitg.ac.in, nagendrakumar06@gmail.com
 --------------------------------------------------------------------------------------------
 
 If you are using the OMP code (ompbox10 toolkit) or KSVD code (ksvdbox13) given in this toolkit please cite the following paper:
